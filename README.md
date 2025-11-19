@@ -8,7 +8,7 @@ A sophisticated, decentralized raffle system built with **Solidity**, **Chainlin
 | :------------------- | :------------------------------------------------------------------------------------------- |
 | **Contract Address** | `0x1C068897151D594C4b5e271b7FB87548a7a2473D`                                                 |
 | **Network**          | Sepolia Testnet                                                                              |
-| **Block Explorer**   | [View on Etherscan](https://etherscan.io/address/0x1C068897151D594C4b5e271b7FB87548a7a2473D) |
+| **Block Explorer**   | [View on Etherscan](https://sepolia.etherscan.io/address/0x1C068897151D594C4b5e271b7FB87548a7a2473D) |
 | **Entrance Fee**     | 0.01 ETH                                                                                     |
 | **Draw Interval**    | 30 seconds                                                                                   |
 
