@@ -192,7 +192,7 @@ This project demonstrates:
 
 ## 🔗 Links & Resources
 
-*   **Live Contract**: [Etherscan](https://etherscan.io/address/0x1C068897151D594C4b5e271b7FB87548a7a2473D)
+*   **Live Contract**: [Etherscan](https://sepolia.etherscan.io/address/0x1C068897151D594C4b5e271b7FB87548a7a2473D)
 *   **Chainlink VRF Docs**: [VRF v2.5 Documentation](https://docs.chain.link/vrf/v2_5/introduction)
 *   **Foundry Book**: [Foundry Documentation](https://book.getfoundry.sh/)
 
